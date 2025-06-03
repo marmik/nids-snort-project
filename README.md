@@ -94,6 +94,7 @@ sudo cp ./configs/snort.conf /etc/snort/snort.conf
 
 # Run Snort on active network interface (e.g., eth0)
 sudo snort -A console -q -c /etc/snort/snort.conf -i eth0
+```
 
 ---
 
