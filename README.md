@@ -33,25 +33,6 @@ This project is part of a 2-month cybersecurity internship focused on building a
 
 ---
 
-## 🧱 Project Structure
-
-nids-snort-project/
-├── configs/ # Snort configs and custom rules
-│ ├── snort.conf
-│ └── custom_rules.rules
-├── logs/ # Snort alert logs
-│ └── alert_logs.txt
-├── reports/ # Midterm and final reports
-│ ├── mid_report.pdf
-│ └── final_report.pdf
-├── visualizations/ # Screenshots or dashboards
-│ └── dashboard_screenshots/
-├── scripts/ # Setup or attack scripts
-│ └── setup.sh
-├── README.md
-└── .gitignore
-
----
 
 ## 🛠️ Tools & Tech
 
