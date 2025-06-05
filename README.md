@@ -6,7 +6,7 @@ This project is part of a 2-month cybersecurity internship focused on building a
 
 ## 👥 Team Members
 
-- **Marmik J Patel** (Team Lead)
+- **Marmik J Patel** 
 - Vishal Sanjay Jadhav
 - Kanchana M
 - Yashika Arora
